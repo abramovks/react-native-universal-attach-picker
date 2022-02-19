@@ -1,0 +1,39 @@
+{
+  "name": "react-native-universal-attach-picker",
+  "version": "1.0.3",
+  "description": "Universal attach wrapper to pick documents, files, photos, and video from gallery",
+  "main": "AttachmentPicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Abramov",
+  "contributors": [
+    {
+      "name": "Konstantin Abramov",
+      "email": "abramovks@yandex.ru"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abramovks/react-native-universal-attach-picker.git"
+  },
+  "homepage": "https://github.com/abramovks/react-native-universal-attach-picker",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react-native-universal-attach-picker",
+    "react",
+    "native",
+    "image",
+    "camera",
+    "document",
+    "file",
+    "picker"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-image-picker": "^4.7.3",
+    "react-native-document-picker": "^8.0.0"
+  }
+}
