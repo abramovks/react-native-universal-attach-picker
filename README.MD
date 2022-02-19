@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# react-native-universal-attach-picker
 
 Hello. That module is wrapper for **react-native-image-picker** and **react-native-document-picker**
 | ![ios](https://media3.giphy.com/media/o57efVTcZvNMypERwd/giphy.gif?cid=790b76117416ca0f8c9552d92131af90b288cddc8b8dbcd8&rid=giphy.gif&ct=g) | ![android](https://media2.giphy.com/media/1jUDzEIAKZLFmm1pNX/giphy.gif?cid=790b761153fd63392c2f2aec0e4c1c58df4c4d11597c88ce&rid=giphy.gif&ct=g) |
