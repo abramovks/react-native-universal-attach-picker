@@ -5,7 +5,9 @@ Hello. That module is wrapper for **react-native-image-picker** and **react-nati
 |--|--|
 
 Tested with
+
 "react": "17.0.2",
+
 "react-native": "0.66.4",
 
 # Install
@@ -182,7 +184,7 @@ On create object receive 4 params
 
 
 ## Result
-All method return JSON
+All methods return JSON
 
     {
 	    // arrays of objects
