@@ -13,18 +13,29 @@ Tested with
 # Install
 
 **yarn add react-native-universal-attach-picker**
+
 or 
+
 **npm install react-native-universal-attach-picker**
 
 Install dependencies (Check instructions of these packages in their repositories)
+
 **yarn add react-native-image-picker react-native-document-picker**
+
 or 
+
 **npm install react-native-image-picker react-native-document-picker**
+
 Then for iOS
+
 **npx pod-install**
+
 or
+
 **cd ios && pod install**
+
 Then
+s
 Add the appropriate keys to your Info.plist
 
     <key>NSPhotoLibraryUsageDescription</key>
