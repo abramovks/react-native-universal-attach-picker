@@ -125,6 +125,7 @@ const styles = StyleSheet.create({
   },
   pickButtonTextStyle: {
     textAlign: 'center',
+    color: '#000'
   },
 });
 
